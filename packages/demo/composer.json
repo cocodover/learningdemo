@@ -1,0 +1,15 @@
+{
+    "name": "djd/test",
+    "description": "just a simple learning demo",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "license": "COCODOVER",
+    "authors": [
+        {
+            "name": "dingjiadong",
+            "email": "dingjiadong@hzyuewan.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
