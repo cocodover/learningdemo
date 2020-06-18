@@ -4,12 +4,11 @@
     "require": {
         "php": ">=7.0.0"
     },
-    "license": "COCODOVER",
     "authors": [
         {
-            "name": "dingjiadong",
-            "email": "dingjiadong@hzyuewan.com"
+            "name": "DJD",
+            "email": "2726762894@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
