@@ -1,6 +1,6 @@
 <?php
 
-namespace LearningDemo\Test;
+namespace CoCoDover\LearningDemo;
 
 class Demo
 {
