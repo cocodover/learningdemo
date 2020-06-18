@@ -1,5 +1,5 @@
 {
-    "name": "djd/test",
+    "name": "learningdemo/test",
     "description": "just a simple learning demo",
     "require": {
         "php": ">=7.0.0"
