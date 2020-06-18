@@ -1,6 +1,7 @@
 {
     "name": "cocodover/learningdemo",
     "description": "just a simple learning demo",
+    "keywords": ["demo"],
     "require": {
         "php": ">=7.0.0"
     },
@@ -11,5 +12,10 @@
             "email": "2726762894@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "CoCoDover\\LearningDemo\\": "src/"
+        }
+    }
 }
