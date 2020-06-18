@@ -1,8 +1,8 @@
 <?php
 
-namespace Djd\Test;
+namespace LearningDemo\Test;
 
-class LearningDemo
+class Demo
 {
     /**
      * 仅仅是个学习测试
